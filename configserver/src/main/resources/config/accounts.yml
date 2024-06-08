@@ -3,7 +3,7 @@ build:
  version: "3.0"
 
 accounts:
- message: "Welcome to entailment accounts related docke APIs"
+ message: "Welcome to entailment accounts related APIs"
  contactDetails:
   name: "Deepak Pareek"
   email: "dpareek@entailment.com"
