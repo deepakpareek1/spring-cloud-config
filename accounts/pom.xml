@@ -91,7 +91,7 @@
 		        <version>3.4.1</version>
 		        <configuration>
 		          <to>
-		            <image>deepakpareek1/${project.artifactId}:1</image>
+		            <image>deepakpareek1/${project.artifactId}:s1</image>
 		          </to>
 		        </configuration>
 		      </plugin>
