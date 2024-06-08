@@ -3,7 +3,7 @@ build:
  version: "1.0"
 
 accounts:
- message: "Welcome to entailment accounts related PROD APIs"
+ message: "Welcome to entailment accounts related PROD-docker APIs"
  contactDetails:
   name: "Deepak Pareek Product Owner"
   email: "dpareek@entailment.com"
